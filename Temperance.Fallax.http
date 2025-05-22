@@ -1,0 +1,6 @@
+@Temperance.Fallax_HostAddress = http://localhost:5108
+
+GET {{Temperance.Fallax_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
